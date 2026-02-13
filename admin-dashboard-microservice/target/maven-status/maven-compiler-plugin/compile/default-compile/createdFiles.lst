@@ -1,0 +1,12 @@
+com\admin\microservice\controller\AdminController.class
+com\admin\microservice\client\JobApplicationClient.class
+com\admin\microservice\external\User.class
+com\admin\microservice\external\JOB_TYPE.class
+com\admin\microservice\external\WORK_MODE.class
+com\admin\microservice\external\Job.class
+com\admin\microservice\external\JOB_APPLICATION_STATUS.class
+com\hirehub\admin\microservice\AdminDashboardMicroserviceApplication.class
+com\admin\microservice\client\JobClient.class
+com\admin\microservice\external\JobApplication.class
+com\admin\microservice\client\UserClient.class
+com\admin\microservice\external\JOB_STATUS.class
